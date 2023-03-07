@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu
 - 👀 I’m interested in Big Data, Machine Learning
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently into Big Data Analytics and Data Processing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 2020mb21232@wilp.bits-pilani.ac.in
 

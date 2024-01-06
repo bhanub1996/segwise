@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bhanu
-- 👀 I’m interested in Big Data, Machine Learning
-- 🌱 I’m currently into Big Data Analytics and Data Processing
+- 👀 I’m interested in building products
+- 🌱 I’m currently into Data Engineering
 - 💞️ I’m looking to collaborate on ...
 
 <!---
